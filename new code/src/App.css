@@ -1,0 +1,50 @@
+body{
+    background-color:#ffffff;
+}
+.Container{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#button{
+    background-color: green;
+    border-radius: 15px;
+    color: white;
+    height: 50px;
+    width: 120px;
+    cursor: pointer;
+    font-size: 20px;
+}
+p{
+    padding-bottom:15px;
+    font-size: 20px;
+}
+#calc{
+    width:100px;
+    height:30px;
+    border-radius: 10px;
+}
+
+#num1{
+
+    text-decoration: none;
+    border-radius: 10px;
+    height:30px;
+    width:200px;
+    
+
+}
+#num2{
+
+    text-decoration: none;
+    border-radius: 10px;
+    height:30px;
+    width:200px;
+
+}
+label{
+    color: black;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
